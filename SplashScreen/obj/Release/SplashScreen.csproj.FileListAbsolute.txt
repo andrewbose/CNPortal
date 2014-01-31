@@ -1,0 +1,3 @@
+C:\Projects\BCM\CommunicateNow\SplashScreen\SplashScreen\SplashScreen\bin\Release\SplashScreen.pdb
+C:\Projects\BCM\CommunicateNow\SplashScreen\SplashScreen\SplashScreen\obj\Release\SplashScreen.dll
+C:\Projects\BCM\CommunicateNow\SplashScreen\SplashScreen\SplashScreen\obj\Release\SplashScreen.pdb

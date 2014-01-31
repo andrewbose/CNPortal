@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e95c10c6-48e3-4dee-a66a-3de3e59e95ed" SharePointProductVersion="15.0">
+  <FeatureManifests>
+    <FeatureManifest Location="SplashScreen_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

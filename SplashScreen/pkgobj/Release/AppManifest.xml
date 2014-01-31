@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Published:70EDFC97-B41D-43C5-B751-7C00AD999804-->
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" Name="SplashScreen" ProductID="{e8ff4dd0-b013-4f94-99ee-86a7246e2485}" Version="1.0.0.7" SharePointMinVersion="15.0.0.0">
+  <Properties>
+    <Title>SplashScreen</Title>
+    <StartPage>~appWebUrl/Pages/Default.aspx?IsDlg=1?{StandardTokens}</StartPage>
+  </Properties>
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+</App>

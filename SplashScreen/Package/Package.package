@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="e95c10c6-48e3-4dee-a66a-3de3e59e95ed" 
+        solutionId="e95c10c6-48e3-4dee-a66a-3de3e59e95ed" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SplashScreen"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="988fa52e-f4da-457b-b6b6-b61ac4a2a14a" />
+  </features>
+</package>

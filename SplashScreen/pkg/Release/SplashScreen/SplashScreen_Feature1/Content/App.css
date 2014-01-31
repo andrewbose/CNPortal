@@ -1,0 +1,10 @@
+﻿/* Place custom styles below */
+body, .ms-core-defaultFont, #pageStatusBar, .ms-status-msg, .js-callout-body {
+font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+color: black;
+font-size: 13px;
+}
+
+.ms-cui-topBar2{
+    display: none;
+}

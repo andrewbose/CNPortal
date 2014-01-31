@@ -1,0 +1,18 @@
+﻿/* Place custom styles below */
+body, .ms-core-defaultFont, #pageStatusBar, .ms-status-msg, .js-callout-body {
+font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+font-size: 13px;
+/*color: lime;
+background-color: red;*/
+}
+
+.ms-core-deltaSuiteLinks, .suiteBarDelta, .suiteBar, .suiteBarLeft, .suiteBarRight, .ms-cui-topBar2, .suiteBarButtons, .ms-cui-ribbonTopBars {    
+/*visibility: hidden;
+border-style:solid;
+border-width:5px;
+border-color:red;*/
+}
+
+.ms-core-overlay{
+    background-color:black;
+}
